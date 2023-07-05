@@ -1,2 +1,2 @@
 
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH/SSH-WEB/main/ssss/sicronizar.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/vpn-ssh/ssss/main/sicronizar.sh)
